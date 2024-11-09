@@ -2,3 +2,4 @@ username
 password
 phone_number
 email
+address
